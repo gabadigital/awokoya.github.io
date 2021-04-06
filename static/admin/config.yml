@@ -21,5 +21,4 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "categories"
         name: "categories"
-        widget: "list"
         default: ["friend"]
