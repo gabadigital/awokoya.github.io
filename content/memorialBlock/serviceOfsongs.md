@@ -1,8 +1,9 @@
 ---
 Title: ""
 draft: false
-ServiceOfSongs: "Service of songs"
+ServiceOfSongs: Service of songs
 headless: true
-youtubeId: "eRvrJHH_74o"
-image: "/images/wake-keep-vid-thumbnail.jpg"
+title: Service of songs
+youtubeId: eRvrJHH_74o
+image: /images/wake-keep-vid-thumbnail.jpg
 ---
