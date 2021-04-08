@@ -28,3 +28,16 @@ collections:
            - { label: "missionary", value: "Missionary" }
            - { label: "Family", value: "Family" }
            - { label: "Colleague", value: "Colleague" }
+
+
+  - name: 'Memorial Videos'
+    label: 'Memorial Videos'
+    folder: 'content/memorialBlock/'
+    create: false
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title on Video', name: 'ServiceOfSongs', widget: 'string' }
+      - { label: 'youtubeId', name: 'youtubeId', widget: 'text' }
+      - { label: 'Featured Image', name: 'image', widget: 'image' }
