@@ -82,7 +82,8 @@ collections:
     label: 'pages'
     files:
       - label : "About His life"
-      - name : "About His life"
-      - file : "/content/his-life.md"
+        name : "About His life"
+        file : "/content/his-life.md"
+        fields:
           - { label: 'title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
