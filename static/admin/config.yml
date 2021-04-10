@@ -77,3 +77,12 @@ collections:
            - { label: "missionary", value: "Missionary" }
            - { label: "Family", value: "Family" }
            - { label: "Colleague", value: "Colleague" }
+
+  - name: 'Pages'
+    label: 'pages'
+    files:
+      - label : "About His life"
+      - name : "About His life"
+      - file : "/content/his-life.md"
+          - { label: 'title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
