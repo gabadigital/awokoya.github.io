@@ -1,34 +1,9 @@
-  backend:
-    name: git-gateway
-    branch: main # Branch to update (optional; defaults to master)
-    media_folder: static/images
-    public_folder: /images
-    collections:
-
-  - name: 'Tributes'
-    label: 'Tributes'
-    folder: 'content/tributes/'
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Tribute Title', name: 'tributeTitle', widget: 'string' }
-      - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
-      - { label: 'Location', name: 'location', widget: 'string' }
-      - { label: 'Summary Heading', name: 'summaryHeading', widget: 'string' }
-      - { label: 'Summary Content', name: 'summaryParagraph', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: "categories"
-        name: "categories"
-        widget: "select"
-        options:
-           - { label: "missionary", value: "Missionary" }
-           - { label: "Friend", value: "Friend" }
-           - { label: "missionary", value: "Missionary" }
-           - { label: "Family", value: "Family" }
-           - { label: "Colleague", value: "Colleague" }
-
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: static/images
+public_folder: /images
+collections:
 
   - name: 'Memorial Videos'
     label: 'Memorial Videos'
@@ -78,3 +53,27 @@
       - { label: 'Testimony Heading', name: 'testimonyHeading', widget: 'text' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
       - { label: 'Summary Paragraph', name: 'summaryParagraph', widget: 'text' }
+
+  - name: 'Tributes'
+    label: 'Tributes'
+    folder: 'content/tributes/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Tribute Title', name: 'tributeTitle', widget: 'string' }
+      - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Summary Heading', name: 'summaryHeading', widget: 'string' }
+      - { label: 'Summary Content', name: 'summaryParagraph', widget: 'text' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "categories"
+        name: "categories"
+        widget: "select"
+        options:
+           - { label: "missionary", value: "Missionary" }
+           - { label: "Friend", value: "Friend" }
+           - { label: "missionary", value: "Missionary" }
+           - { label: "Family", value: "Family" }
+           - { label: "Colleague", value: "Colleague" }
