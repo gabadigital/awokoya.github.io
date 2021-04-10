@@ -17,17 +17,17 @@ collections:
       - { label: 'youtubeId', name: 'youtubeId', widget: 'text' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
 
- - name: 'notable Reflection'
-   label: 'Notable Reflection'
-   folder: 'content/notableReflec/'
-   create: true
-   editor:
-     preview: false
-   fields:
-     - { label: 'Title', name: 'title', widget: 'string' }
-     - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
-     - { label: 'Location', name: 'location', widget: 'string' }
-     - { label: 'Content', name: 'body', widget: 'markdown' }
+  - name: 'notable Reflection'
+    label: 'Notable Reflection'
+    folder: 'content/notableReflec/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Content', name: 'body', widget: 'markdown' }
 
   - name: 'Slider'
     label: 'Slider'
