@@ -42,39 +42,39 @@ collections:
       - { label: 'youtubeId', name: 'youtubeId', widget: 'text' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
 
-   - name: 'notable Reflection'
-     label: 'Notable Reflection'
-     folder: 'content/notableReflec/'
-     create: true
-     editor:
-       preview: false
-     fields:
-       - { label: 'Title', name: 'title', widget: 'string' }
-       - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
-       - { label: 'Location', name: 'location', widget: 'string' }
-       - { label: 'Content', name: 'body', widget: 'markdown' }
+ - name: 'notable Reflection'
+   label: 'Notable Reflection'
+   folder: 'content/notableReflec/'
+   create: true
+   editor:
+     preview: false
+   fields:
+     - { label: 'Title', name: 'title', widget: 'string' }
+     - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
+     - { label: 'Location', name: 'location', widget: 'string' }
+     - { label: 'Content', name: 'body', widget: 'markdown' }
 
-    - name: 'Slider'
-      label: 'Slider'
-      folder: 'content/slideItems/'
-      create: true
-      editor:
-        preview: false
-      fields:
-        - { label: 'Title', name: 'title', widget: 'string' }
-        - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
-        - { label: 'Slider image', name: 'image', widget: 'image' }
+  - name: 'Slider'
+    label: 'Slider'
+    folder: 'content/slideItems/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
+      - { label: 'Slider image', name: 'image', widget: 'image' }
 
-    - name: 'Testimony'
-      label: 'Testimony'
-      folder: 'content/testimony/'
-      create: true
-      editor:
-        preview: false
-      fields:
-        - { label: 'Title', name: 'title', widget: 'string' }
-        - { label: 'Name of Testifier', name: 'nameofTestifier', widget: 'string' }
-        - { label: 'Location', name: 'location', widget: 'string' }
-        - { label: 'Testimony Heading', name: 'testimonyHeading', widget: 'text' }
-        - { label: 'Featured Image', name: 'image', widget: 'image' }
-        - { label: 'Summary Paragraph', name: 'summaryParagraph', widget: 'text' }
+  - name: 'Testimony'
+    label: 'Testimony'
+    folder: 'content/testimony/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Name of Testifier', name: 'nameofTestifier', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Testimony Heading', name: 'testimonyHeading', widget: 'text' }
+      - { label: 'Featured Image', name: 'image', widget: 'image' }
+      - { label: 'Summary Paragraph', name: 'summaryParagraph', widget: 'text' }
