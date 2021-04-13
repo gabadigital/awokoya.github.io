@@ -53,6 +53,9 @@ collections:
       - { label: 'Testimony Heading', name: 'testimonyHeading', widget: 'text' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
       - { label: 'Summary Paragraph', name: 'summaryParagraph', widget: 'text' }
+      - { label: 'META Title', name: 'seoTitle', widget: 'text' }
+      - { label: 'META Description', name: 'seoDescription', widget: 'text' }
+      - { label: 'META Image', name: 'imageOG', widget: 'image' }
 
   - name: 'Tributes'
     label: 'Tributes'
@@ -84,6 +87,28 @@ collections:
       - label : "About His life"
         name : "About His life"
         file : "/content/his-life.md"
+        fields:
+          - { label: 'title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'META Title', name: 'seoTitle', widget: 'text' }
+          - { label: 'META Description', name: 'seoDescription', widget: 'text' }
+          - { label: 'META Image', name: 'imageOG', widget: 'image' }
+
+      - label : "Homepage"
+        name : "Homepage"
+        file : "/content/index.md"
+        fields:
+          - { label: 'title', name: 'title', widget: 'string' }
+          - { label: 'META Title', name: 'seoTitle', widget: 'text' }
+          - { label: 'META Description', name: 'seoDescription', widget: 'text' }
+          - { label: 'META Image', name: 'imageOG', widget: 'image' }
+
+  - name: 'Pages'
+    label: 'Homepage'
+    files:
+      - label : "About His life"
+        name : "About His life"
+        file : "/content/index.md"
         fields:
           - { label: 'title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
