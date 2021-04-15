@@ -102,3 +102,14 @@ collections:
           - { label: 'META Title', name: 'seoTitle', widget: 'text' }
           - { label: 'META Description', name: 'seoDescription', widget: 'text' }
           - { label: 'META Image', name: 'imageOG', widget: 'image' }
+
+
+  - name: 'Config Files'
+    label: 'config Files'
+    files:
+      - label : "Config File"
+        name : "Config File"
+        file : "/config.toml"
+        fields:
+          - { label: 'title', name: 'title', widget: 'string' }
+          - { label: 'baseURL', name: 'baseURL', widget: 'string' }
