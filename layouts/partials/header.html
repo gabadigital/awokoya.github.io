@@ -1,18 +1,26 @@
 <head>
   <meta charset="utf-8">
-  <title>{{.Params.seoTitle}}</title>
+  <title>{{.Params.pageTitle}}  {{ if eq  .IsHome false}} | {{.Site.Title}} {{end}}</title>
+  <meta content="{{.Params.seoTitle}}" property="og:title">
   <meta content="{{.Params.seoDescription}}" name="description">
+
   <meta content="{{.Params.seoTitle}}" property="og:title">
   <meta content="{{.Params.seoDescription}}" property="og:description">
   <meta content="{{.Params.imageOG}}" property="og:image">
-  <meta content="{{.Params.seoTitle}}/" property="twitter:title">
+  <meta property="og:site_name" content=".Site.Title" />
+
+  <meta content="{{.Params.seoTitle}}" property="twitter:title">
   <meta content="{{.Params.seoDescription}}" property="twitter:description">
   <meta content="{{.Params.imageOG}}" property="twitter:image">
   <meta property="og:type" content="website">
+
+
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Gabadigital Webmasters" name="generator">
+  <meta content="Gabadigital agency" name="generator">
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  <link rel="canonical" href="{{.Site.BaseURL}}" />
 
   <link href="/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/css/general_rule.css" rel="stylesheet" type="text/css">

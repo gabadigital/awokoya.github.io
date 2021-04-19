@@ -1,0 +1,71 @@
+<div class="b-siimilar-memoir">
+  <div class="simirlar-memoir-flex">
+    <h3 class="h3-similar">similar stories you might also like</h3>
+    <div class="read-more-div no-marg">
+      <div class="btn-read-more">
+        <div class="read-more-txt">view more stories</div>
+        <div class="arrow-main">󰁃</div>
+      </div>
+    </div>
+  </div>
+  <div class="grid-2">
+
+    {{range first 2 (where  .Site.RegularPages "Section" "memories-and-condolences")}}
+    {{$image := .Params.image}}
+    {{$youtube := .Params.youtubeId}}
+    {{$testimony := .Params.testimonyHeading}}
+    {{$nameofTestifier := .Params.nameofTestifier}}
+    {{$location := .Params.location}}
+
+      <a href="#" class="lightbox-link w-inline-block w-lightbox">
+        <div class="play-btn sm">
+          <div>󰐊</div>
+        </div><img src="{{$image}}" loading="lazy" sizes="(max-width: 767px) 90vw, 44vw"  alt="{{.Params.alt}}">
+        <div class="abs-lightbox">
+          <div class="e-memr-bl">
+            <h2 class="h3-testimony sm">{{.Params.testimonyHeading}}</h2>
+            <div class="sm-txt-tribute white">by {{.Params.nameofTestifier}}, {{.Params.location}}.</div>
+          </div>
+        </div>
+        <script type="application/json" class="w-json">{
+        "items": [
+        {
+        "type": "video",
+        "originalUrl": "https://www.youtube.com/watch?v={{$youtube}}",
+        "url": "https://www.youtube.com/watch?v={{$youtube}}",
+        "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F{{$youtube}}%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D{{$youtube}}&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F{{$youtube}}%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
+        "thumbnailUrl": "https://i.ytimg.com/vi/{{$youtube}}/hqdefault.jpg",
+        "width": 940,
+        "height": 528
+        }
+        ]
+        }</script>
+      </a>
+    {{end}}
+<!--
+    <a href="#" class="lightbox-link w-inline-block w-lightbox">
+      <div class="play-btn sm">
+        <div>󰐊</div>
+      </div><img src="images/dad-img.jpg" loading="lazy" sizes="(max-width: 767px) 90vw, 44vw" srcset="images/dad-img-p-500.jpeg 500w, images/dad-img-p-800.jpeg 800w, images/dad-img.jpg 1488w" alt="">
+      <div class="abs-lightbox">
+        <div class="e-memr-bl">
+          <h2 class="h3-testimony sm">The Pastor as Father to His Family </h2>
+          <div class="sm-txt-tribute white">by Pastor Peter Ago, DLBC, Chad.</div>
+        </div>
+      </div>
+      <script type="application/json" class="w-json">{
+"items": [
+{
+"type": "video",
+"originalUrl": "https://www.youtube.com/watch?v=-cIke7PHJIA",
+"url": "https://www.youtube.com/watch?v=-cIke7PHJIA",
+"html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-cIke7PHJIA%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-cIke7PHJIA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-cIke7PHJIA%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
+"thumbnailUrl": "https://i.ytimg.com/vi/-cIke7PHJIA/hqdefault.jpg",
+"width": 940,
+"height": 528
+}
+]
+}</script>
+    </a> -->
+  </div>
+</div>

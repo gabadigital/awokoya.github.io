@@ -12,6 +12,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: 'Title', name: 'pageTitle', widget: 'string' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Title on Video', name: 'ServiceOfSongs', widget: 'string' }
       - { label: 'youtubeId', name: 'youtubeId', widget: 'text' }
@@ -40,18 +41,20 @@ collections:
       - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
       - { label: 'Slider image', name: 'image', widget: 'image' }
 
-  - name: 'Testimony'
-    label: 'Testimony'
-    folder: 'content/testimony/'
+  - name: 'Memories and condolences'
+    label: 'Memories and condolences'
+    folder: 'content/memories-and-condolences/'
     create: true
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Page Title', name: 'Page Title', widget: 'string' }
       - { label: 'Name of Testifier', name: 'nameofTestifier', widget: 'string' }
       - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Testimony Heading', name: 'testimonyHeading', widget: 'text' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
+      - { label: 'Alt', name: 'Alt', widget: 'string'}
       - { label: 'Summary Paragraph', name: 'summaryParagraph', widget: 'text' }
       - { label: 'META Title', name: 'seoTitle', widget: 'text' }
       - { label: 'META Description', name: 'seoDescription', widget: 'text' }
@@ -64,6 +67,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: 'Title', name: 'pageTitle', widget: 'string' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tribute Title', name: 'tributeTitle', widget: 'string' }
       - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }

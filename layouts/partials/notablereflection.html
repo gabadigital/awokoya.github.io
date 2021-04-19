@@ -17,7 +17,7 @@
           {{ range $reusablereflec}}
           <div class="w-slide">
             <div class="b-notable-reflec-wrap">
-              <p> &quot; {{.Content}} &quot;</p>
+              <p> &quot; {{.Content | truncate 500 }} &quot;</p>
               <div class="reflection-author">
                 <div class="name-pastor">{{.Params.pastorName}},</div>
                 <div class="pastor-loc">{{.Params.location}}</div>

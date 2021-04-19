@@ -1,0 +1,16 @@
+{{ define "main"}}
+<div data-w-id="{{.Params.id}}" class="all-page">
+  <div class="abs-complete-cover"></div>
+  <div class="sub-pages tribute1">
+    <div class="b-tribute-white full">
+      {{partial "go-back.html"}}
+      <div class="b-tribute-heading-top center">
+        <h1 class="h2-pages">{{.Title}}</h1>
+      </div>
+      <div class="mid-txt">
+        <div>{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{{end}}

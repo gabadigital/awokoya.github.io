@@ -25,6 +25,7 @@ p {
 }
 
 .header {
+  position: relative;
   height: 100vh;
   padding-top: 4%;
   padding-bottom: 4%;
@@ -43,7 +44,7 @@ p {
 }
 
 .slide {
-  background-image: url('/images/dad.jpg');
+  background-image: url('../images/dad.jpg');
   background-position: 55% 24%;
   background-size: auto;
 }
@@ -774,6 +775,10 @@ p {
   border-bottom: 1px solid #d3d3d3;
 }
 
+.b-tribute-heading-top.center {
+  text-align: center;
+}
+
 .txt-tribute-title {
   font-size: 0.95em;
   line-height: 1.3;
@@ -1497,6 +1502,13 @@ p {
   line-height: 1.7;
 }
 
+.mid-txt {
+  margin-top: 5vw;
+  font-size: 1em;
+  line-height: 1.6;
+  text-align: center;
+}
+
 @media screen and (max-width: 991px) {
   p {
     font-size: 0.98em;
@@ -2161,39 +2173,6 @@ p {
     width: 19vw;
     margin-bottom: 10vw;
   }
-}
-
-#Email-2.w-node-_81b88f07-34a7-5054-716a-8fb8113a10f0-681de3ce {
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-  -ms-grid-column: span 2;
-  grid-column-start: span 2;
-  -ms-grid-column-span: 2;
-  grid-column-end: span 2;
-}
-
-#w-node-_1560f416-d107-1495-3e29-155b512cb10a-681de3ce {
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-  -ms-grid-column: span 2;
-  grid-column-start: span 2;
-  -ms-grid-column-span: 2;
-  grid-column-end: span 2;
-}
-
-#field-3.w-node-_8d784fb0-fef9-528a-1b79-ac5580f04e39-681de3ce {
-  -ms-grid-row: span 1;
-  grid-row-start: span 1;
-  -ms-grid-row-span: 1;
-  grid-row-end: span 1;
-  -ms-grid-column: span 2;
-  grid-column-start: span 2;
-  -ms-grid-column-span: 2;
-  grid-column-end: span 2;
 }
 
 #field-3.w-node-_8d784fb0-fef9-528a-1b79-ac5580f04e39-be93ff51 {

@@ -1,4 +1,5 @@
 ---
+pageTitle: ""
 title: "leave a tribute"
 layout: "leave-a-tribute"
 type: "pages"
