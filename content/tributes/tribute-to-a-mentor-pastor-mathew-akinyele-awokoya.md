@@ -1,6 +1,6 @@
 ---
 pageTitle: Tribute by HRM SO Sobaloju
-title: TRIBUTE TO A MENTOR, PASTOR  MATHEW AKINYELE AWOKOYA.
+title: Tribute to a classmate and mentor
 tributeTitle: TRIBUTE TO A MENTOR, PASTOR  MATHEW AKINYELE AWOKOYA.
 pastorsName: HRM(OBA)S.O Sobaloju.Akantioke 1,Gbadebori of Alapata
 location: Nigeria
