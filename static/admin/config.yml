@@ -99,7 +99,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Location', name: 'location', widget: 'list' }
+      - { label: 'Location', name: 'location', widget: 'string' }
 
   - name: 'Pages'
     label: 'pages'
