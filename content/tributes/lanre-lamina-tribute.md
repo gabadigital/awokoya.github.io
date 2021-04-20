@@ -9,7 +9,7 @@ summaryParagraph: "The gallant soldier of Christ goes home. Rest in Peace dear
   Uncle, Pastor Akin Awokoya. You devoted your life to mission work in desert
   lands and war zones of Africa for which you were fondly called Desert Warrior.
   "
-locationStatus: MTN CIO Zambia
+locationStatus: Zambia
 categories: Family
 location: Zambia
 headless: true
