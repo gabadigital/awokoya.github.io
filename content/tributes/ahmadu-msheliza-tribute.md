@@ -4,14 +4,14 @@ pageTitle: " Ahmadu Msheliza - Tribute"
 title: " Ahmadu Msheliza - Tribute"
 tributeTitle: He touched my life
 pastorsName: Pastor Ahmadu Msheliza
-location: Nigeria
+summaryHeading: He touched my life
 summaryParagraph: He was a paragon of the grace of God and was consecration
   incarnate. Wise people that sought to enter the Kingdom of God love him very
   much but worldliness hated him perfectly. This God’s General used the stone of
   the word of God to grind us into powder for use in the Master’s Vineyard.
+categories: Pastors
+location: Nigeria
 headless: true
-summaryHeading: He touched my life
-categories: Colleague
 ---
 The name Brother Awokoya (as he was fondly called then) was synonymous with “love no the world neither the things that are in the world”. He was a paragon of the grace of God and was consecration incarnate. Wise people that sought to enter the Kingdom of God love him very much but worldliness hated him perfectly. 
 He was not a spiritual illiterate so brother Awokoya did not classify somethings to be spiritual and somethings to be secular. To him everything “is Spiritual”. To this end, he left an unsurpassed record at the Department of Physics, University of Maiduguri as an Excellent Staff.
