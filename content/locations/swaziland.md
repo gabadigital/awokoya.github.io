@@ -1,0 +1,4 @@
+---
+title: Swaziland
+location: Swaziland
+---
