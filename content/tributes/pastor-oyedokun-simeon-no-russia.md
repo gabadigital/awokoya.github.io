@@ -7,7 +7,7 @@ pastorsName: Pastor Oyedokun Simeon - National Overseer
 summaryHeading: Goodnight to a general, Pastor Awokoya
 summaryParagraph: His consecration and commitment to the proclamation of the
   gospel regardless of the soil was unquestionable.
-locationStatus: National Overseer, Russia
+locationStatus: Russia
 categories: Missionary
 location: Russia
 headless: true
