@@ -9,6 +9,7 @@ summaryParagraph: He was a paragon of the grace of God and was consecration
   incarnate. Wise people that sought to enter the Kingdom of God love him very
   much but worldliness hated him perfectly. This God’s General used the stone of
   the word of God to grind us into powder for use in the Master’s Vineyard.
+locationStatus: Borno State, Nigeria
 categories: Pastors
 location: Nigeria
 headless: true
