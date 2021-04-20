@@ -4,14 +4,15 @@ pageTitle: Lanre Lamina Tribute
 title: Lanre Lamina Tribute
 tributeTitle: Tribute a gallant soldier of Christ
 pastorsName: Lanre Lamina - MTN CIO Zambia
-location: Zambia
+summaryHeading: " Rest in Peace dear Uncle"
 summaryParagraph: "The gallant soldier of Christ goes home. Rest in Peace dear
   Uncle, Pastor Akin Awokoya. You devoted your life to mission work in desert
   lands and war zones of Africa for which you were fondly called Desert Warrior.
   "
-headless: true
-summaryHeading: " Rest in Peace dear Uncle"
+locationStatus: MTN CIO Zambia
 categories: Family
+location: Zambia
+headless: true
 ---
 The gallant soldier of Christ goes home. Rest in Peace dear Uncle, Pastor Akin Awokoya. Though painful, we rejoice and take solace in the fact that you fought a good fight, you finished your course and you kept the faith. 
 
