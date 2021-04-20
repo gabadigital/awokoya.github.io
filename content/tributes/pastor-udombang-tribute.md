@@ -22,3 +22,6 @@ I was challenged with devotion, selfless pursuit of the gospel mandate, holiness
 His open-hearted love for believers, has no equal.
 Farewell, great general of God, may God raise up from his family, another gift to the Body of Christ.
 Our mother, may God bless and strengthen you in times like this to run the race to join the overcomers throng, like our Pastor, and to the children ,may God of comfort, comfort you all, and help you to cherish the divine and redemption legacies our Pastor left behind, and keep it, while following in his foot steps.
+
+May God bless and keep the Awokoya's family.
+**Pastor Samuel and Sister Comfort Udombang, and family, National Overseer Swaziland, now Eswstini**
