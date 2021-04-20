@@ -4,7 +4,7 @@ title: Tribute to a classmate and mentor
 tributeTitle: TRIBUTE TO A MENTOR, PASTOR  MATHEW AKINYELE AWOKOYA.
 pastorsName: HRM(OBA)S.O Sobaloju.Akantioke 1,Gbadebori of Alapata
 location: Nigeria
-summaryHeading: TRIBUTE TO A MENTOR, PASTOR  MATHEW AKINYELE AWOKOYA.
+summaryHeading: Tribute to a mentor
 summaryParagraph: He fed us all within his capability. He had a
   nondiscriminatory large heart. With the advent of digital communications, we
   reconnected and consistently his theme for discussion always centered on
