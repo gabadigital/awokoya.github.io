@@ -8,6 +8,7 @@ summaryHeading: such a committed servant of God
 summaryParagraph: I have never met such a committed servant of God like Daddy
   Awokoya Mathew. He lived more spiritually than human because he spent more
   time nourishing his spirit man than eating physical food.
+locationStatus: South Sudan
 categories: Pastors
 location: South Sudan
 headless: true
