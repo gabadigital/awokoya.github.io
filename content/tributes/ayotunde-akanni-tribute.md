@@ -4,16 +4,16 @@ pageTitle: Ayotunde Akanni - Tribute
 title: Ayotunde Akanni - Tribute
 tributeTitle: Adieu My Dear Uncle
 pastorsName: Dns. Engr. Ayotunde Akanni
-location: Nigeria
-locationStatus: ""
+summaryHeading: Adieu my Dear Uncle
 summaryParagraph: Thank you for those Morning Devotional Messages you always
   sent.  You did that for many years and I never bordered to read for a day just
   because I thought you wanted me to attend Deeper Life Church, until last year
   January, 2020 that I started reading them. Those Daily Messages have really
   helped my spiritual growth
-headless: true
-summaryHeading: Adieu my Dear Uncle
+locationStatus: Nigeria
 categories: Family
+location: Nigeria
+headless: true
 ---
 Adieu my Uncle,
 I never imagined it could be this soon, that morning, when mummy called me, praying and crying, I couldn't even ask for what happened until I was inside  Lagos bus, I thought you were just in comma, I didn't know it was the end.
