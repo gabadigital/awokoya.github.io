@@ -84,6 +84,16 @@ collections:
            - { label: "Family", value: "Family" }
            - { label: "Pastors", value: "Pastors" }
 
+  - name: 'Location'
+    label: 'Location'
+    folder: 'content/locations/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+
   - name: 'Pages'
     label: 'pages'
     files:

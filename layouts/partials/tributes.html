@@ -18,12 +18,13 @@
             </div>
 
             <div style="display:none" class="location-dropdown">
-              <div filter-by="Tchad" class="location-link-rel">
-                <div>Sudan</div>
+              {{ $location := .Site.GetPage "/locations"}}
+              {{ $reusablelocation := $location.Resources.ByType "page"}}
+              {{ range $reusablelocation }}
+              <div filter-by="{{.Params.location}}" class="location-link-rel">
+                <div>{{.Params.location}}</div>
               </div>
-              <div filter-by="UK" class="location-link-rel">
-                <div>UK</div>
-              </div>
+              {{end}}
             </div>
 
           </div>
