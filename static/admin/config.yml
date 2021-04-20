@@ -79,11 +79,10 @@ collections:
         name: "categories"
         widget: "select"
         options:
-           - { label: "missionary", value: "Missionary" }
            - { label: "Friend", value: "Friend" }
            - { label: "missionary", value: "Missionary" }
            - { label: "Family", value: "Family" }
-           - { label: "Colleague", value: "Colleague" }
+           - { label: "Pastors", value: "Pastors" }
 
   - name: 'Pages'
     label: 'pages'
