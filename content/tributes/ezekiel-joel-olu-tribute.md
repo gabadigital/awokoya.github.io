@@ -8,6 +8,7 @@ summaryHeading: Our renowned "Desert Warrior", is gone!
 summaryParagraph: "The DCLM has lost a daring, tireless, indefatigable,
   uncommon, humble, amiable, friendly but firm, unpretentious, and fiery Army
   General. "
+locationStatus: Nigeria
 categories: Pastors
 location: Nigeria
 headless: true
