@@ -71,7 +71,6 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tribute Title', name: 'tributeTitle', widget: 'string' }
       - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
-      - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Summary Heading', name: 'summaryHeading', widget: 'string' }
       - { label: 'Summary Content', name: 'summaryParagraph', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -83,6 +82,14 @@ collections:
            - { label: "missionary", value: "Missionary" }
            - { label: "Family", value: "Family" }
            - { label: "Pastors", value: "Pastors" }
+      - label: "location"
+        name: "location"
+        widget: "relation"
+        collection: "location"
+        value_field: "location"
+        search_fields: ["title", "location"]
+
+
 
   - name: 'Location'
     label: 'Location'
