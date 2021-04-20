@@ -10,7 +10,7 @@ summaryParagraph: I first met with this great Mentor and God's general in Jos at
   the land", it was at that retreat that the Lord gave me the purpose of my life
 locationStatus: National Overseer Swaziland
 categories: Missionary
-location: Tchad
+location: Swaziland
 headless: true
 ---
 To God be the glory, that you have departed this earthly pilgrimage for your mansion and rewards from the Lord.
