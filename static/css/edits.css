@@ -1,0 +1,7 @@
+.w-slider-nav-invert>div.w-active{
+background-color:#A18E55 !important;
+border: none !important;
+}
+.w-slider-nav-invert>div{
+background-color: #fff !important;
+border:.2px solid #9797A6 !important;}
