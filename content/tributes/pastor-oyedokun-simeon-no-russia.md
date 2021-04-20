@@ -8,7 +8,7 @@ location: Russia, DLBC
 summaryParagraph: His consecration and commitment to the proclamation of the
   gospel regardless of the soil was unquestionable.
 headless: true
-summaryHeading: Goodnight to a general Pastor Awokoya
+summaryHeading: Goodnight to a general, Pastor Awokoya
 categories: Missionary
 ---
 **His consecration and commitment to the proclamation of the gospel regardless of the soil was unquestionable**. He fought, conquered and **without doubt won the crown of righteousness.** 
