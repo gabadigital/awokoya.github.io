@@ -4,12 +4,12 @@ pageTitle: Pastor Oyedokun Simeon (NO- Russia)
 title: Pastor Oyedokun Simeon (NO- Russia)
 tributeTitle: Tribute to the general, Pastor Awokoya
 pastorsName: Pastor Oyedokun Simeon - National Overseer
-location: Russia, DLBC
+summaryHeading: Goodnight to a general, Pastor Awokoya
 summaryParagraph: His consecration and commitment to the proclamation of the
   gospel regardless of the soil was unquestionable.
-headless: true
-summaryHeading: Goodnight to a general, Pastor Awokoya
 categories: Missionary
+location: Russia
+headless: true
 ---
 **His consecration and commitment to the proclamation of the gospel regardless of the soil was unquestionable**. He fought, conquered and **without doubt won the crown of righteousness.** 
 
