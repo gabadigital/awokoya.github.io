@@ -4,13 +4,13 @@ pageTitle: "Pastor Ezekiel Joel "
 title: Ezekiel Joel Olu Tribute
 tributeTitle: Tribute to the great DLBC General, Pastor Awokoya
 pastorsName: Ezekiel Joel Olu
-location: Russia, DLBC
+summaryHeading: Our renowned "Desert Warrior", is gone!
 summaryParagraph: "The DCLM has lost a daring, tireless, indefatigable,
   uncommon, humble, amiable, friendly but firm, unpretentious, and fiery Army
   General. "
+categories: Pastors
+location: Nigeria
 headless: true
-summaryHeading: Our renowned "Desert Warrior", is gone!
-categories: Colleague
 ---
 So it's true! He left without our having our usual jovial, but thought-provoking, banters? During our last discussion, he was full of life, and in South Sudan! 
 
