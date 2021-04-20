@@ -92,6 +92,7 @@ collections:
         name : "About His life"
         file : "/content/his-life.md"
         fields:
+          - { label: 'Page Title', name: 'pageTitle', widget: 'string', hint: 'name of Page' }
           - { label: 'title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - { label: 'META Title', name: 'seoTitle', widget: 'text' }
