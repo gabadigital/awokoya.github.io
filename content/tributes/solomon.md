@@ -1,18 +1,18 @@
 ---
 draft: false
+pageTitle: Tribute Solomon
 title: Tribute Solomon
 tributeTitle: TRIBUTE TO MY BROTHER AND FRIEND PASTOR MATHEW AWOKOYA
 pastorsName: Pastor Solomon B. Adeleye
-location: DLBC, PRAIA, Cape Verde
+summaryHeading: He left sterling examples of uncommon missionary zeal for us
 summaryParagraph: We believe he fought a good fight throughout his sojourn here
   on earth. His was an unalloyed commitment to the cause of Christ from start to
   finish. Apart from Biblical characters, he also has left sterling examples of
   uncommon missionary zeal for us to emulate. We will miss him for his rare and
   unpretended relationship with the younger Pastors and missionaries.
+categories: Missionary
+location: Nigeria
 headless: true
-summaryHeading: A true to me
-categories:
-  - family
 ---
 
 We learnt with shock the passing on of "the old soldier", our dear Pastor Mathew Awokoya in Lagos in the wee hours of Saturday 12 of December, 2020.
