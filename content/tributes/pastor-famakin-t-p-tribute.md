@@ -11,7 +11,7 @@ summaryParagraph: Pastor Matthew's missionary contributions had started
   Algeria, Tunisia, Sudan, United Arab Emirates, Oman, Qatar and Kuwait.
 locationStatus: Egypt
 categories: Missionary
-location: South Sudan
+location: Egypt
 headless: true
 ---
 'Pastor Matthew was fondly called 'the desert warrior' in the Arab region because of his dogged tenacity and fervent passion for the salvation of the sons and daughters of Abraham of the Arab stock. His memory will remain evergreen in the hearts of the Arab brethren and ministers whose infectious but unpretentious candor charmed to believe in the missionary revelation couched in the prophetic vision of Isaiah that  'In that day shall there be a highway out of Egypt to  Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians...'
