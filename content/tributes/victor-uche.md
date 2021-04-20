@@ -7,6 +7,7 @@ pastorsName: Victor Uche
 summaryHeading: A fire brand that inspired lots of indigenous Borno pastors.
 summaryParagraph: A fire brand that inspired lots of indigenous Borno pastors.
   PST Pogu, PST Yerima, and even PST Solomon and PST Okocha from the SE
+locationStatus: Nigeria
 categories: Pastors
 location: Nigeria
 headless: true
