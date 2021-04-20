@@ -2,7 +2,6 @@
 title: "Pastor Solomon B. Adeleye"
 location: "DLBC, PRAIA, CAPE Verde"
 pastorName: "Pastor Solomon B. Adeleye"
-sectionName: ""
 headless: true
 ---
 
