@@ -91,15 +91,15 @@ collections:
 
 
 
-  - name: 'Location'
-    label: 'Location'
+  - name: 'location'
+    label: 'location'
     folder: 'content/locations/'
     create: true
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Location', name: 'location', widget: 'list' }
 
   - name: 'Pages'
     label: 'pages'
