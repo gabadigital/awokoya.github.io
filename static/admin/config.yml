@@ -71,7 +71,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tribute Title', name: 'tributeTitle', widget: 'string' }
       - { label: 'Name of Person', name: 'pastorsName', widget: 'string' }
-      - { label: 'Location', name: 'location', widget: 'relation', collection:'location' }
+      - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Summary Heading', name: 'summaryHeading', widget: 'string' }
       - { label: 'Summary Content', name: 'summaryParagraph', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -84,8 +84,8 @@ collections:
            - { label: "Family", value: "Family" }
            - { label: "Pastors", value: "Pastors" }
 
-  - name: 'location'
-    label: 'location'
+  - name: 'Location'
+    label: 'Location'
     folder: 'content/locations/'
     create: true
     editor:
