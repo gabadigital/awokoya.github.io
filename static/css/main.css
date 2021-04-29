@@ -582,7 +582,7 @@ p {
   border-bottom: 2px solid #000;
 }
 
-.lnk-filter.colleague.filtr-active {
+.lnk-filter.pastors.filtr-active {
   border-bottom: 2px solid #000;
 }
 
@@ -1924,7 +1924,7 @@ p {
     color: #a18e55;
   }
 
-  .lnk-filter.colleague.filtr-active {
+  .lnk-filter.pastors.filtr-active {
     background-color: #fff;
     color: #a18e55;
   }
