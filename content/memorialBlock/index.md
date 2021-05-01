@@ -1,8 +1,5 @@
 ---
 pageTitle: "Memorial Coverage"
-Title: ""
-summaryHeading: ""
-summaryParagraph: ""
+Title: "index"
 headless: true
-draft: false
 ---

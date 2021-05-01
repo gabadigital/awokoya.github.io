@@ -125,6 +125,14 @@ collections:
           - { label: 'META Description', name: 'seoDescription', widget: 'text' }
           - { label: 'META Image', name: 'imageOG', widget: 'image' }
 
+      - label : "Memorial Coverage Index"
+        name : "Memorial Converage"
+        file : "/content/memorial-coverage.md"
+        fields:
+          - { label: 'title', name: 'title', widget: 'string' }
+          - { label: 'META Title', name: 'seoTitle', widget: 'text' }
+          - { label: 'META Description', name: 'seoDescription', widget: 'text' }
+          - { label: 'META Image', name: 'imageOG', widget: 'image' }
 
   - name: 'Config Files'
     label: 'config Files'
