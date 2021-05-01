@@ -6,5 +6,5 @@ headless: true
 pageTitle: Funeral Service
 title: Funeral Service
 youtubeId: ka8opas8BEQ
-image: /images/funeral-service-p-500.jpeg
+image: /images/funeral-service.jpg
 ---
