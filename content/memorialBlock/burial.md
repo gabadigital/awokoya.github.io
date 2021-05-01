@@ -1,9 +1,10 @@
 ---
 Title: ""
 draft: false
-ServiceOfSongs: Service of songs
+ServiceOfSongs: Funeral Service
 headless: true
-title: Service of Songs
-youtubeId: eRvrJHH_74o
+pageTitle: Funeral Service
+title: Funeral Service
+youtubeId: ka8opas8BEQ
 image: /images/wake-keep-vid-thumbnail.jpg
 ---
