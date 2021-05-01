@@ -14,7 +14,7 @@ collections:
     fields:
       - { label: 'Title', name: 'pageTitle', widget: 'string' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Title on Video', name: 'ServiceOfSongs', widget: 'string' }
+      - { label: 'Title on Video', name: 'nameService', widget: 'string' }
       - { label: 'youtubeId', name: 'youtubeId', widget: 'text' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
 

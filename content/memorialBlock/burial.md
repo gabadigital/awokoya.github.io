@@ -1,7 +1,7 @@
 ---
 Title: ""
 draft: false
-ServiceOfSongs: Funeral Service
+nameService: Funeral Service
 headless: true
 pageTitle: Funeral Service
 title: Funeral Service

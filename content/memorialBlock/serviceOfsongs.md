@@ -1,7 +1,7 @@
 ---
 Title: ""
 draft: false
-ServiceOfSongs: Service of songs
+nameService: Service of songs
 headless: true
 pageTitle: Service of Songs
 title: Service of songs
