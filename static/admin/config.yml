@@ -81,7 +81,7 @@ collections:
         collection: "categories"
         value_field: "category"
         search_fields: ["title", "category"]
-        
+
       - label: "location"
         name: "location"
         widget: "relation"
@@ -90,6 +90,15 @@ collections:
         search_fields: ["title", "location"]
 
 
+  - name: 'Categories'
+    label: 'categories'
+    folder: 'content/categories/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Category', name: 'category', widget: 'string' }
 
   - name: 'location'
     label: 'location'
