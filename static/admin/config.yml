@@ -151,6 +151,7 @@ collections:
         fields:
           - { label: 'title', name: 'title', widget: 'string' }
           - { label: 'baseURL', name: 'baseURL', widget: 'string' }
+          - { label: 'favicon', name: 'favicon', widget: 'image' }
 
   - name: 'Admin Config'
     label: 'Admin Config'
