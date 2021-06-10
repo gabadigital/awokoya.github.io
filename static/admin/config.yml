@@ -90,7 +90,7 @@ collections:
         search_fields: ["title", "categories"]
         value_field: "categories"
 
-      - label: "categories"
+      - label: "Child"
         name: "Child"
         widget: "relation"
         collection: "child"
