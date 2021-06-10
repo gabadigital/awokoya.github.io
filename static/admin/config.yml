@@ -87,8 +87,16 @@ collections:
         name: "categories"
         widget: "relation"
         collection: "category"
-        value_field: "categories"
         search_fields: ["title", "categories"]
+        value_field: "categories"
+
+      - label: "categories"
+        name: "Child"
+        widget: "relation"
+        collection: "child"
+        search_fields: ["title", "categories"]
+        value_field: "categories"
+
 
 
   - name: 'Categories'
@@ -99,7 +107,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Category', name: 'categories', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
 
   - name: 'location'
     label: 'location'
