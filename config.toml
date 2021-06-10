@@ -1,6 +1,7 @@
 baseURL = "https://awokoyamathew.org/"
 languageCode = "en-us"
 title = "Awokoya Mathew Akinyele"
+favicon = "/images/Awokoya-Matthew-Logo-White.png"
 
 [menu]
 
