@@ -83,6 +83,13 @@ collections:
         value_field: "location"
         search_fields: ["title", "location"]
 
+      - label: "location"
+        name: "location"
+        widget: "relation"
+        collection: "location"
+        value_field: "location"
+        search_fields: ["title", "location"]
+
       - label: "categories"
         name: "categories"
         widget: "relation"
@@ -159,6 +166,6 @@ collections:
     files:
       - label : "Config File"
         name : "Config File"
-        file : "/static/admin/config.toml"
+        file : "/static/admin/config.yml"
         fields:
           - { label: 'Body', name: 'body', widget: 'markdown' }
