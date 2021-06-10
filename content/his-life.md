@@ -6,10 +6,10 @@ title: Hislife
 imageOG: /images/dad-img-p-800.jpeg
 type: pages
 seoTitle: Remembering Awokoya Mathew Akinyele (1949-2020)
-seoDescription: See stories, photos and videos of all the Pastor Awokoya Mathew
-  Akinyele memorial events. He was popularly known as Desert warrior because of
-  his passionate ministry to the Northern part of Nigeria and the Arab World
-  (Sudan, Egypt & Lebanon).
+seoDescription: Pastor Awokoya - popularly known as Desert warrior because of
+  his passionate ministry to the Northern part of Nigeria and the Arab
+  World.  He was the founder and pioneer of the Deeper life Church in Borno,
+  Yobe, Adamawa, South Sudan, Egypt, United Kingdom and Tchad.
 ---
 Pastor Matthew Akinyele Awokoya was born on June 10, 1949 at Ijebu-Ososa, Ijebu Ode, present-day Ogun State of Nigeria, to the Christian family of late Chief Kokumu Awokoya (the Alare of Ososa) and late Mrs Elizabeth Ibidunni Awokoya.
 
