@@ -83,20 +83,12 @@ collections:
         value_field: "location"
         search_fields: ["title", "location"]
 
-      - label: "location"
-        name: "location"
-        widget: "relation"
-        collection: "location"
-        value_field: "location"
-        search_fields: ["title", "location"]
-
       - label: "categories"
         name: "categories"
         widget: "relation"
         collection: "categories"
         value_field: "categories"
         search_fields: ["categories"]
-
 
 
   - name: 'Categories'
