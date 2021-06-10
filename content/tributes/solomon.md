@@ -13,6 +13,7 @@ summaryParagraph: We believe he fought a good fight throughout his sojourn here
 locationStatus: PRAIA, CAPE Verde
 location: Nigeria
 headless: true
+category: Missionary
 ---
 
 We learnt with shock the passing on of "the old soldier", our dear Pastor Mathew Awokoya in Lagos in the wee hours of Saturday 12 of December, 2020.
