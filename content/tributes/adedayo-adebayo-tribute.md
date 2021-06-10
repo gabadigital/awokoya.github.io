@@ -11,6 +11,7 @@ summaryParagraph: Continue to rest in His bosom. And we shall continue to keep
 locationStatus: UK
 location: UK
 headless: true
+category: Pastors
 ---
 I remembered in one of our Congress heart to heart talk as a father to a son. How you told me that you tried to start Deeper Life in 1970s when you came to Glasgow for a course. And when I told you that the little seed you planted has grown to become a region now in DCLM UK. 
 
