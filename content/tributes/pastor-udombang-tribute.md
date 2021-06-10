@@ -11,6 +11,7 @@ summaryParagraph: I first met with this great Mentor and God's general in Jos at
 locationStatus: National Overseer Swaziland
 location: Swaziland
 headless: true
+category: Missionary
 ---
 To God be the glory, that you have departed this earthly pilgrimage for your mansion and rewards from the Lord.
 Dear  Desert Warrior, as I fondly called you, you finished your course, kept the faith, fought a good flight, and now wear your Crown.
