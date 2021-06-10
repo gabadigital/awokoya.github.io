@@ -75,12 +75,13 @@ collections:
       - { label: 'Summary Content', name: 'summaryParagraph', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'locationStatus', name: 'locationStatus', widget: 'string' }
-      - label: "categories"
-        name: "categories"
+
+      - label: "Categories"
+        name: "Categories"
         widget: "relation"
-        collection: "category"
-        value_field: "category"
-        search_fields: ["title", "category"]
+        collection: "categories"
+        value_field: "categories"
+        search_fields: ["title", "categories"]
 
       - label: "location"
         name: "location"
@@ -98,7 +99,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Category', name: 'category', widget: 'string' }
+      - { label: 'Category', name: 'categories', widget: 'string' }
 
   - name: 'location'
     label: 'location'

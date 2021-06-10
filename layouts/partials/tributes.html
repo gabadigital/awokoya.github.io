@@ -7,9 +7,9 @@
           {{ $categories := .Site.GetPage "/categories"}}
           {{ $reusableCategories := $categories.Resources.ByType "page"}}
           {{ range $reusableCategories }}
-          <a filter-by=" {{.Params.title}}" href="#" class="lnk-filter {{.Params.title}}">{{.Params.category}}</a>
+          <a filter-by=" {{.Params.title}}" href="#" class="lnk-filter {{.Params.title}}">{{.Params.categories}}</a>
           {{end}}
-          
+
         </div>
 
         <div class="filter-search">

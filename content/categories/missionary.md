@@ -1,4 +1,4 @@
 ---
 title: missionary
-category: Missionary
+categories: Missionary
 ---
