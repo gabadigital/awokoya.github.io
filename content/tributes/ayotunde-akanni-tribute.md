@@ -13,6 +13,7 @@ summaryParagraph: Thank you for those Morning Devotional Messages you always
 locationStatus: Nigeria
 location: Nigeria
 headless: true
+category: Family
 ---
 Adieu my Uncle,
 I never imagined it could be this soon, that morning, when mummy called me, praying and crying, I couldn't even ask for what happened until I was inside  Lagos bus, I thought you were just in comma, I didn't know it was the end.
