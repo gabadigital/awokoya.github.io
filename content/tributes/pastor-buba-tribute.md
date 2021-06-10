@@ -15,6 +15,7 @@ summaryParagraph: >-
 locationStatus: National Overseer, Chad
 location: Tchad
 headless: true
+category: Missionary
 ---
 Glorious‌ ‌exit‌ ‌of‌ ‌the‌ ‌man‌ ‌of‌ ‌God,‌ ‌Pastor‌ ‌Matthew‌ ‌A.‌ ‌Awokoya.‌ ‌ ‌
 The‌ ‌testimony‌ ‌of‌ ‌my‌ ‌life‌ ‌and‌ ‌journey‌ ‌into‌ ‌the‌ ‌ministry‌ ‌wouldn't‌ ‌be‌ ‌complete‌ ‌without‌ ‌mentioning‌ ‌him.‌ ‌I‌ ‌
