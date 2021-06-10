@@ -10,6 +10,7 @@ summaryParagraph: His consecration and commitment to the proclamation of the
 locationStatus: Russia
 location: Russia
 headless: true
+category: Missionary
 ---
 **His consecration and commitment to the proclamation of the gospel regardless of the soil was unquestionable**. He fought, conquered and **without doubt won the crown of righteousness.**
 
