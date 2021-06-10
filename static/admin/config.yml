@@ -86,14 +86,14 @@ collections:
       - label: "categories"
         name: "categories"
         widget: "relation"
-        collection: "categories"
+        collection: "category"
         value_field: "categories"
-        search_fields: ["categories"]
+        search_fields: ["title", "categories"]
 
 
   - name: 'Categories'
     label: 'categories'
-    folder: 'content/categories/'
+    folder: 'content/category/'
     create: true
     editor:
       preview: false
