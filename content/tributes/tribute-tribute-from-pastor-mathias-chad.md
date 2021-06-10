@@ -11,6 +11,7 @@ summaryParagraph: He landed in Chad in 1987 with the only passion to win souls
   alcoholics and hopelessness.
 locationStatus: Deeper Life, Chad
 location: Tchad
+category: Pastors
 ---
 Mom, Deborah, Princess, Moses and Daniel.
 
