@@ -153,3 +153,12 @@ collections:
         fields:
           - { label: 'title', name: 'title', widget: 'string' }
           - { label: 'baseURL', name: 'baseURL', widget: 'string' }
+
+  - name: 'Admin Config'
+    label: 'Admin Config'
+    files:
+      - label : "Config File"
+        name : "Config File"
+        file : "/static/admin/config.toml"
+        fields:
+          - { label: 'Body', name: 'body', widget: 'markdown' }
