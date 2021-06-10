@@ -5,3 +5,5 @@ border: none !important;
 .w-slider-nav-invert>div{
 background-color: #fff !important;
 border:.2px solid #9797A6 !important;}
+
+.filter-p{display: none !important;} /*css for the tribute partial page*/

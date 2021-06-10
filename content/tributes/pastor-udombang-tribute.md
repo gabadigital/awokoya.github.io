@@ -9,7 +9,6 @@ summaryParagraph: I first met with this great Mentor and God's general in Jos at
   a December retreat and drank from his message titled " this is the fruit of
   the land", it was at that retreat that the Lord gave me the purpose of my life
 locationStatus: National Overseer Swaziland
-categories: Missionary
 location: Swaziland
 headless: true
 ---

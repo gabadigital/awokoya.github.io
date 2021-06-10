@@ -9,7 +9,6 @@ summaryParagraph: One of the most rugged soldiers of the cross that ever lived.
   He has paid his dues and left the baton to whosoever wishes to follow a good
   and eternally rewarding step.
 locationStatus: Unilag, Nigeria
-categories: Pastors
 location: Nigeria
 headless: true
 ---

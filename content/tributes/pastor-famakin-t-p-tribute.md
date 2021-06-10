@@ -10,7 +10,6 @@ summaryParagraph: Pastor Matthew's missionary contributions had started
   Christian Life Ministry open doors beyond Egypt into Lebanon, Jordan, Morocco,
   Algeria, Tunisia, Sudan, United Arab Emirates, Oman, Qatar and Kuwait.
 locationStatus: Egypt
-categories: Missionary
 location: Egypt
 headless: true
 ---

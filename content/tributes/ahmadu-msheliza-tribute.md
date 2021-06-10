@@ -10,18 +10,17 @@ summaryParagraph: He was a paragon of the grace of God and was consecration
   much but worldliness hated him perfectly. This God’s General used the stone of
   the word of God to grind us into powder for use in the Master’s Vineyard.
 locationStatus: Borno State, Nigeria
-categories: Pastors
 location: Nigeria
 headless: true
 ---
-The name Brother Awokoya (as he was fondly called then) was synonymous with “love no the world neither the things that are in the world”. He was a paragon of the grace of God and was consecration incarnate. Wise people that sought to enter the Kingdom of God love him very much but worldliness hated him perfectly. 
+The name Brother Awokoya (as he was fondly called then) was synonymous with “love no the world neither the things that are in the world”. He was a paragon of the grace of God and was consecration incarnate. Wise people that sought to enter the Kingdom of God love him very much but worldliness hated him perfectly.
 He was not a spiritual illiterate so brother Awokoya did not classify somethings to be spiritual and somethings to be secular. To him everything “is Spiritual”. To this end, he left an unsurpassed record at the Department of Physics, University of Maiduguri as an Excellent Staff.
 
 
 Oh happy day, the day **I met Pastor Awokoya and attended the Bible study held at his house, University of Maiduguri Staff Quarters.** This specie of bible study was unlike the one we were having at the FCS, university of Maiduguri. One hour thirty minutes’ bible study and my life was totally turned around.
 
 
-I could remember the regular participants of the bible study; **Irmiya Yakubu**, **Joel Kyari Madu**, **Daniel Ndong**, **John Yamtu**, **Dennis Ibrahim Goreng**, **John Khobe**, **Frama Abraham**, **Deborah Okuma**, and **Ebiyomei Nicky Tobi**. These young people were mostly from the six states of the North eastern Region of Nigeria. We gave up the chicken served at the university cafeteria to attend the soul-stirring teaching of the man of God. 
+I could remember the regular participants of the bible study; **Irmiya Yakubu**, **Joel Kyari Madu**, **Daniel Ndong**, **John Yamtu**, **Dennis Ibrahim Goreng**, **John Khobe**, **Frama Abraham**, **Deborah Okuma**, and **Ebiyomei Nicky Tobi**. These young people were mostly from the six states of the North eastern Region of Nigeria. We gave up the chicken served at the university cafeteria to attend the soul-stirring teaching of the man of God.
 
 
 This God’s General used the stone of the word of God to grind us into powder for use in the Master’s Vineyard. We saw grace in him. Our spiritual metamorphosis is traceable to his instrumentality. He was not just a preacher, because of this, students and help seekers milled around him. I was a beneficiary. Idrissa Bulama, Joel K. Madu, Gabriel, Amu and many others stayed at his house in Mairi village Maiduguri. He fed us, gave us money, prayed for us and counselled us.
@@ -44,7 +43,7 @@ At the climax of the mourning one mad man was bought to Pastor Awokoya for praye
 This paragon of grace touched my life in no small measure. God used him to bring my mother to the saving knowledge of Christ this event took place in 1979. Pastor Awokoya’s interpreter was the Ladan (Islamic Prayer Caller) of Government Secondary School Maiduguri. He was one of Pastor Awokoya’s Muslim converts. This shows that God used him to bring many of our people to the saving knowledge of the truth.
 
 
-**My mother turned from Islam to Jesus through the instrumentality of this man of God whoever thought that my mother being a devoted Muslim could get converted.** 
+**My mother turned from Islam to Jesus through the instrumentality of this man of God whoever thought that my mother being a devoted Muslim could get converted.**
 
 
 Some of us, the first fruit of his labour in the North Eastern part of Nigeria are here to mourn and celebrate the passage of our Pastor, Evangelist, Teacher, and father in the Lord who electrified our cities with the light of the gospel.

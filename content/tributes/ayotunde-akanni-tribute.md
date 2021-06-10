@@ -11,7 +11,6 @@ summaryParagraph: Thank you for those Morning Devotional Messages you always
   January, 2020 that I started reading them. Those Daily Messages have really
   helped my spiritual growth
 locationStatus: Nigeria
-categories: Family
 location: Nigeria
 headless: true
 ---

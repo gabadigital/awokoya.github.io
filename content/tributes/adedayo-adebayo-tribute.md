@@ -9,7 +9,6 @@ summaryParagraph: Continue to rest in His bosom. And we shall continue to keep
   the faith and win more souls into the Kingdom. Already missing your calls
   daddy. Farewell!
 locationStatus: UK
-categories: Pastors
 location: UK
 headless: true
 ---

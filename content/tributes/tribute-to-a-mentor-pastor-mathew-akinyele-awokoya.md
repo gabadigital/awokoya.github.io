@@ -9,7 +9,6 @@ summaryParagraph: He fed us all within his capability. He had a
   reconnected and consistently his theme for discussion always centered on
   evangelism for Christ. Even on his sick bed, his tone never waved.
 locationStatus: Nigeria
-categories: Friend
 location: Nigeria
 ---
 It was a humble privilege to write this piece in memory of our dear classmate, brother, confidant and mentor, with whom we had shared different facetision, À life spanning fifty-five years.

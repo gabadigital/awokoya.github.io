@@ -90,8 +90,6 @@ collections:
         value_field: "categories"
         search_fields: ["title", "categories"]
 
-
-
   - name: 'categories'
     label: 'categories'
     folder: 'content/category/'

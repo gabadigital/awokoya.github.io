@@ -10,15 +10,14 @@ summaryParagraph: He landed in Chad in 1987 with the only passion to win souls
   was able to gather around him by the power and wisdom of God of reversed
   alcoholics and hopelessness.
 locationStatus: Deeper Life, Chad
-categories: Pastors
 location: Tchad
 ---
 Mom, Deborah, Princess, Moses and Daniel.
 
 Good evening,
-With the departure of our dear dad to glory and in these cruel times, I beg you to accept my most emotional and sad condolences. 
+With the departure of our dear dad to glory and in these cruel times, I beg you to accept my most emotional and sad condolences.
 
-To the instrument that God used powerfully for my spiritual transformation. What I have become today on the Evangelical level, I owe it in part to this man who deserves testimony and tributes. 
+To the instrument that God used powerfully for my spiritual transformation. What I have become today on the Evangelical level, I owe it in part to this man who deserves testimony and tributes.
 
 A great man has gone home. He landed in Chad in 1987 with the only passion to win souls to God, he established churches in Ndjamena and deep Chad. He poured into the word of God, he was able to gather around him by the power and wisdom of God of reversed alcoholics and hopelessness.
 

@@ -11,7 +11,6 @@ summaryParagraph: We believe he fought a good fight throughout his sojourn here
   uncommon missionary zeal for us to emulate. We will miss him for his rare and
   unpretended relationship with the younger Pastors and missionaries.
 locationStatus: PRAIA, CAPE Verde
-categories: Missionary
 location: Nigeria
 headless: true
 ---

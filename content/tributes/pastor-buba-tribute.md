@@ -13,7 +13,6 @@ summaryParagraph: >-
 
   raw,‌ ‌rugged,‌ ‌reassuring‌ ‌and‌ ‌resolute.‌
 locationStatus: National Overseer, Chad
-categories: Missionary
 location: Tchad
 headless: true
 ---
@@ -24,6 +23,6 @@ raw,‌ ‌rugged,‌ ‌reassuring‌ ‌and‌ ‌resolute.‌ ‌My‌ ‌unf
 a‌ ‌long‌ ‌trip‌ ‌to‌ ‌the‌ ‌Youth‌ ‌Camp,‌ ‌Shagamu‌ ‌for‌ ‌a‌ ‌workers‌ ‌retreat.‌ ‌That‌ ‌program‌ ‌was‌ ‌classical‌ ‌and‌ ‌spiritually‌ ‌
 oriented,‌ ‌so‌ ‌insightful,‌ ‌inspiring,‌  ‌fruitful‌ ‌and‌ ‌fulfilling.‌ ‌He‌ ‌was‌ ‌a‌ ‌mentor‌ ‌and‌ ‌gladiator‌ ‌in‌ ‌many‌ ‌missionary‌ ‌
 fields.‌ ‌He‌ ‌will‌ ‌ever‌ ‌be‌ ‌remembered‌ ‌for‌ ‌the‌ ‌great‌ ‌gospel‌ ‌work‌ ‌in‌ ‌Borno/Yobe‌ ‌states‌ ‌and‌ ‌Chad‌ ‌Republic‌ ‌
-respectively‌ ‌etc.‌ ‌ 
+respectively‌ ‌etc.‌ ‌
 
 May‌ ‌the‌ ‌good‌ ‌Lord‌ ‌console‌ ‌his‌ ‌family.‌ ‌May‌ ‌we‌ ‌also‌ ‌finish‌ ‌well‌ ‌at‌ ‌our‌ ‌post‌ ‌when‌ ‌the‌ ‌final‌ ‌call‌ ‌comes.‌
