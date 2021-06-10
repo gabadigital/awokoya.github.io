@@ -12,6 +12,7 @@ summaryParagraph: He was a paragon of the grace of God and was consecration
 locationStatus: Borno State, Nigeria
 location: Nigeria
 headless: true
+category: Pastors
 ---
 The name Brother Awokoya (as he was fondly called then) was synonymous with “love no the world neither the things that are in the world”. He was a paragon of the grace of God and was consecration incarnate. Wise people that sought to enter the Kingdom of God love him very much but worldliness hated him perfectly.
 He was not a spiritual illiterate so brother Awokoya did not classify somethings to be spiritual and somethings to be secular. To him everything “is Spiritual”. To this end, he left an unsurpassed record at the Department of Physics, University of Maiduguri as an Excellent Staff.
