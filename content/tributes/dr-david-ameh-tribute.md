@@ -11,6 +11,7 @@ summaryParagraph: Your track record of tilling hard grounds in very hard to
 locationStatus: South Sudan
 location: South Sudan
 headless: true
+category: Pastors
 ---
 The news of your glorious exit from the world to be with the Lord came to me with a shock that has lingered to date. It came to me while waiting for your return to South Sudan to continue the work. You left a great vacuum in South Sudan that is hard to fill, but trusting God to help us carry on. Your track record of tilling hard grounds in very hard to reach parts of the world has left a great mark in South Sudan, where Deeper Life Bible Church has finally found a footing by the grace of God. This can only happen through resilient labourers of your calibre. Just to recall one challenging series of experiences  you led us through, which is the experience of frequent ejection by landlords that has made us to shift our headquarter church four times over the years since the church’s inception in the country, coupled with the stress of locating new rented lands for our place of worship. You sailed through all of these as a gallant soldier of the cross.
 
