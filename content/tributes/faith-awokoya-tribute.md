@@ -12,6 +12,7 @@ summaryParagraph: Having a Father in-law like mine was one of God’s greatest
 locationStatus: Nigeria
 location: Nigeria
 headless: true
+category: Family
 ---
 Having a Father in-law like mine was one of God’s greatest blessing to me this past year. One time papa and I were speaking over the phone(he was in Sudan at the time), I remember him particularly interested in knowing all the names of my siblings and mother. Right from the beginning he took me as one of his own, even before I married my husband. I fondly remember his warmth and smile the first time I paid him and mummy a visit. Being the father that he was, he sat me down and told me about his university days, about lecturing and when he decided to walk closely with God. He ensured that the message of the gospel was included in almost all the conversations we had. **I felt so welcomed, and left that day thinking about how heaven conscious someone can be, not just for himself but also for as many that came in contact with him.**
 
