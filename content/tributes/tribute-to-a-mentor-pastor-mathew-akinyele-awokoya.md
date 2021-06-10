@@ -10,6 +10,7 @@ summaryParagraph: He fed us all within his capability. He had a
   evangelism for Christ. Even on his sick bed, his tone never waved.
 locationStatus: Nigeria
 location: Nigeria
+category: Friends
 ---
 It was a humble privilege to write this piece in memory of our dear classmate, brother, confidant and mentor, with whom we had shared different facetision, À life spanning fifty-five years.
 
