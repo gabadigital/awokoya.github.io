@@ -1,0 +1,4 @@
+---
+title: pastors
+category: Pastors
+---

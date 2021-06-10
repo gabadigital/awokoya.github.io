@@ -4,10 +4,12 @@
 
         <div class="filter-group">
           <a href="#" class="lnk-filter all filter-reset-master">All tributes</a>
-          <a filter-by="missionary" href="#" class="lnk-filter missionary">Missionary</a>
-          <a filter-by="Family" href="#" class="lnk-filter family">Family</a>
-          <a filter-by="friend" href="#" class="lnk-filter friend">Friend</a>
-          <a filter-by="pastors" href="#" class="lnk-filter pastors">Pastors</a>
+          {{ $categories := .Site.GetPage "/categories"}}
+          {{ $reusableCategories := $categories.Resources.ByType "page"}}
+          {{ range $reusableCategories }}
+          <a filter-by=" {{.Params.title}}" href="#" class="lnk-filter {{.Params.title}}">{{.Params.category}}</a>
+          {{end}}
+          
         </div>
 
         <div class="filter-search">

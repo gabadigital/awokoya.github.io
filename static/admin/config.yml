@@ -77,12 +77,11 @@ collections:
       - { label: 'locationStatus', name: 'locationStatus', widget: 'string' }
       - label: "categories"
         name: "categories"
-        widget: "select"
-        options:
-           - { label: "Friend", value: "Friend" }
-           - { label: "missionary", value: "Missionary" }
-           - { label: "Family", value: "Family" }
-           - { label: "Pastors", value: "Pastors" }
+        widget: "relation"
+        collection: "categories"
+        value_field: "category"
+        search_fields: ["title", "category"]
+        
       - label: "location"
         name: "location"
         widget: "relation"

@@ -1,0 +1,4 @@
+---
+title: friend
+category: Friends
+---
