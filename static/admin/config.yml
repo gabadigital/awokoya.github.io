@@ -78,7 +78,7 @@ collections:
       - label: "categories"
         name: "categories"
         widget: "relation"
-        collection: "categories"
+        collection: "category"
         value_field: "category"
         search_fields: ["title", "category"]
 
