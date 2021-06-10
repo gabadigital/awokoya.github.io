@@ -1,4 +1,4 @@
 ---
 title: family
-category: Family
+categories: Family
 ---

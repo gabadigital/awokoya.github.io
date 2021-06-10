@@ -1,4 +1,4 @@
 ---
 title: pastors
-category: Pastors
+categories: Pastors
 ---
