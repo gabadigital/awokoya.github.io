@@ -87,7 +87,7 @@ collections:
         name: "categories"
         widget: "relation"
         collection: "categories"
-        value_field: ["categories"]
+        value_field: "categories"
         search_fields: ["categories"]
 
 
